@@ -7,9 +7,6 @@ End-to-end exploratory analysis of a US superstore dataset — uncovering revenu
 This project analyzes four years of retail transaction data from a US superstore to answer key business questions around revenue, profitability, regional performance, customer segmentation, and the financial impact of discounting.
 The analysis was conducted entirely in Python and follows a structured pipeline: data ingestion → cleaning → EDA → visualization → executive summary.
 
-# 📊 Dataset
-DetailInfoSourceSuperstore Dataset — KaggleFileSample - Superstore.csvEncodingISO-8859-1CoverageUS retail orders with order/ship dates, product categories, regions, segments, sales, profit, and discount
-
 # 🔍 Key Business Questions
 
 Which product category generates the most sales and the most profit?
